@@ -16,7 +16,7 @@ GEM
     mongo (2.3.0)
       bson (~> 4.1)
     oauth (0.5.1)
-    rack (1.6.4)
+    rack (2.1.4.1)
     trollop (2.1.2)
 
 PLATFORMS
@@ -30,7 +30,7 @@ DEPENDENCIES
   iconv
   mongo (= 2.3.0)
   oauth (= 0.5.1)
-  rack (= 1.6.4)
+  rack (= 2.1.4.1)
   trollop
 
 BUNDLED WITH
